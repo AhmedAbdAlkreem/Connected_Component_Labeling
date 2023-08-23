@@ -13,11 +13,11 @@ in image, shapes or things has speacific area.
 3) Using open-CV library.
 4) Call connected_component from cv2.
 5) Detect all shapes from the image.
-6) Detect all number from sudokue image.
+6) Detect all number from sudoku image.
 7) Deal with noise from the image to detect object only.
 
 
-Before this will be able to detect all object from the image without noise and I hope
+Before this you will be able to detect all object from the image without noise and I hope
 to add more details in connected component labeling about you know.
 
 
